@@ -31,10 +31,11 @@ npm run build
 
 
 ### Need to run below commond for setup fresh project as only vue.
-npm install -g create-vue
-create-vue my-vue-app
-cd my-vue-app
-npm install
-npm install vue-router@4
-npm install bootstrap
-npm run dev
+
+1. npm install -g create-vue
+2. create-vue my-vue-app
+3. cd my-vue-app
+4. npm install
+5. npm install vue-router@4
+6. npm install bootstrap
+7. npm run dev
